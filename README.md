@@ -2,12 +2,12 @@
 
 ## Weighted Nuclear Norm
 ### paper: Weighted Nuclear Norm Minimization with Application to Image Denoising
-### code: https://github.com/csjunxu/WNNM_CVPR2014
+### original-code: https://github.com/csjunxu/WNNM_CVPR2014
 
 ## Truncated Nuclear Norm
 ### paper: Fast and Accurate Matrix Completion via Truncated Nuclear Norm Regularization
-### code: https://github.com/xueshengke/TNNR
+### original-code: https://github.com/xueshengke/TNNR
 
 ## Logarithm Nuclear Norm
 ### paper: Matrix Completion Based on Non-Convex Low-Rank Approximation
-### code: https://github.com/sudalvxin/MC-NC
+### original-code: https://github.com/sudalvxin/MC-NC
