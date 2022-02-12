@@ -1,4 +1,4 @@
-# nonconvex-lowrank-for-matrix
+# 利用图像的低秩特性、运用非凸的方法实现矩阵降噪
 此repo为本科毕业设计所用代码，毕业论文可见：https://github.com/AnhaoROMA/graduation-paper
 
 ## Weighted Nuclear Norm
